@@ -1,4 +1,3 @@
-from sympy.core.assumptions import StdFactKB
 from sympy.core import S, Pow, sympify
 from sympy.core.expr import AtomicExpr, Expr
 from sympy.core.compatibility import range, default_sort_key
