@@ -5,7 +5,7 @@ from sympy import sqrt, ImmutableMatrix as Matrix, Add
 from sympy.vector.coordsysrect import CoordSys3D
 from sympy.vector.basisdependent import (BasisDependent, BasisDependentAdd,
                                          BasisDependentMul, BasisDependentZero)
-from sympy.vector.dyadic import BaseDyadic, Dyadic, DyadicAdd
+
 
 
 class Vector(BasisDependent):
